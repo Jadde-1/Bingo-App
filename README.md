@@ -27,6 +27,9 @@ This project should be considered:
 - Simple graphical user interface
 - A4 preview and printable output
 
+<img width="2553" height="1394" alt="Screenshot from 2026-01-08 20-50-48" src="https://github.com/user-attachments/assets/930380f5-5cfe-4f53-b1b8-01f132368fe9" />
+
+
 ---
 
 ## 🛠 Technologies Used
