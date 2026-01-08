@@ -26,9 +26,14 @@ This project should be considered:
 - Supports words and/or numbers
 - Simple graphical user interface
 - A4 preview and printable output
+- **Export bingo cards as:**
+  - A single combined PDF file
+  - Individual PNG image files (one per card)
+- Automatically retrieves and uses the current date
+- Import words from `.txt` files
+- Preview bingo cards before saving or exporting
 
 <img width="2553" height="1394" alt="Screenshot from 2026-01-08 20-50-48" src="https://github.com/user-attachments/assets/930380f5-5cfe-4f53-b1b8-01f132368fe9" />
-
 
 ---
 
